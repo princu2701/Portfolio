@@ -1,6 +1,6 @@
 # Welcome to My Portfolio
 
-Hi, I'm [Your Name], a **Software Tester** with hands-on experience in various testing tools and frameworks. I am passionate about ensuring quality in software products and automating testing processes to enhance productivity.
+Hi, I'm Prince Raj, a **Software Tester** with hands-on experience in various testing tools and frameworks. I am passionate about ensuring quality in software products and automating testing processes to enhance productivity.
 
 ## Skills and Expertise
 - **Manual Testing**: Performing functional, regression, and user acceptance testing.
@@ -40,8 +40,8 @@ Hi, I'm [Your Name], a **Software Tester** with hands-on experience in various t
 ## Contact
 
 Feel free to reach out to me through:
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin)
-- **Email**: [youremail@example.com]
+- **LinkedIn**: https://www.linkedin.com/in/prince-raj-a1493b228/
+- **Email**: princeraj27janu@gmail.com
 
 I’m always open to discussing new opportunities, collaborations, or simply sharing knowledge about testing and automation.
 
@@ -49,18 +49,8 @@ I’m always open to discussing new opportunities, collaborations, or simply sha
 
 ### About Me
 
-I joined **Bpass Solutions Pvt. Ltd.** in **October 2024** as a software tester. I’m working on automating web application tests using **Selenium** and **Cypress** while also gaining hands-on experience with various testing methodologies. In my free time, I like to keep up with the latest trends in automation and improve my skills further.
+I joined **Bpass Solutions Pvt. Ltd.** in **October 2024** as a software tester. I’m working on automating web application tests using **Selenium** and **Cypress** and **Manual Testing** while also gaining hands-on experience with various testing methodologies. In my free time, I like to keep up with the latest trends in automation and improve my skills further.
 
 ---
 
-Feel free to customize any part of this `README.md` to better reflect your projects or contact information.
-
-### How to Update the `README.md` File:
-1. Open the `README.md` file in a text editor.
-2. Replace placeholders like `[Your Name]`, `[your-username]`, and `[your-linkedin]` with your actual information.
-3. Save the file and push changes to GitHub using the following commands in Git Bash:
-   ```bash
-   git add README.md
-   git commit -m "Updated README with portfolio details"
-   git push origin main
 # Portfolio
